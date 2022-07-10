@@ -5,7 +5,7 @@
     flex-direction:column;
     padding:2em 1em;
     margin-bottom:2em;
-    width:23%;
+    width:12em;
     border-radius: 1em;
     border: 2px solid #e33d33;
     box-shadow:5px 5px 12px rgba(0, 0, 0, 0.5);
@@ -36,7 +36,10 @@
     padding: 0.4em 1.2em;
     border-radius: 5px;
     font-weight: bold;
-    transition: 0.4s
+    transition: 0.4s;
+    width:80%;
+    text-align: center;
+    
 }
 
 .card .btn:hover {
